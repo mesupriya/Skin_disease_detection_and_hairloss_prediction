@@ -15,7 +15,7 @@ def load_data():
     """This function returns the preprocessed data"""
 
     # Load the Demenia dataset into DataFrame.
-    df = pd.read_csv('Hairloss_Prediction_main\hair_loss_intggggg.csv')
+    df = pd.read_csv('Hairloss_Prediction_main/hair_loss_intggggg.csv')
 
     # Perform feature and target split
    # X = df[["total_protein","total_keratine","hair_texture","vitamin","manganese","iron","calcium","body_water_content","stress_level","liver_data"]]
