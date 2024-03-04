@@ -1,2 +1,2 @@
 # Skin_diseasea_and_hairloss_prediction
- hello
+ https://the-diagnosis-of-skin-and-hair-conditions.streamlit.app/
